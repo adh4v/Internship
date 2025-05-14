@@ -1,0 +1,29 @@
+Transactions for: 2025-05-12_12-42-44
+
+ Transaction ID: 0 Amount: 8282 Account ID: cdbd95e8-2c13-46b0-853b-4ee8f5b01d49 Bank ID: PT53523528726394174533779
+ Transaction ID: 3 Amount: 1193 Account ID: dacbe148-e569-4c39-a16b-518ced1ef3be Bank ID: BH21JJXFcVPEoVFhFnY85i
+ Transaction ID: 5 Amount: 6980 Account ID: 516b0875-3a40-41ac-8457-46cd236b7c95 Bank ID: BR6235539617545274953172030Pf
+ Transaction ID: 8 Amount: 329 Account ID: 084950de-06f5-439a-9a84-7ce1869582dd Bank ID: MR8959213167912369428068714
+ Transaction ID: 7 Amount: 8196 Account ID: b74cbe03-be09-4539-99e9-0f395789c126 Bank ID: MD59A99NBnUX5a6XLz9rV536
+ Transaction ID: 6 Amount: 3618 Account ID: 0abfb78d-77d0-4334-8d6f-861537db4964 Bank ID: FR977206240889pl37QaIx6m285
+ Transaction ID: 5 Amount: 6928 Account ID: 7c12773d-5dcb-44f5-96ec-17e99fce79de Bank ID: DK4246526783002960
+ Transaction ID: 2 Amount: 9494 Account ID: f8da86ab-3887-44df-b19c-8b4e43e84145 Bank ID: PT29863465263046280760260
+ Transaction ID: 9 Amount: 3948 Account ID: 5e119133-b88b-438c-856c-16074f593229 Bank ID: TN4282054527810986081465
+ Transaction ID: 6 Amount: 1911 Account ID: 4921bb04-2e3f-4988-b6f4-42f351cfbbfd Bank ID: IT48I16927821632HyzbKjvP8mn
+ Transaction ID: 9 Amount: 8871 Account ID: 52894a8a-d025-487f-9b80-47e87e08a2f3 Bank ID: LC73ETDDQ49MBN4rv5Xx1vR0A0X94t0C
+ Transaction ID: 7 Amount: 9846 Account ID: 59f6dc80-ebcf-4bce-94a3-0c536492c449 Bank ID: ES5184784321370478104349
+ Transaction ID: 7 Amount: 7704 Account ID: 630dc397-1cd6-433a-9bd4-901f6f58f238 Bank ID: IE02EUWZ32908358726812
+ Transaction ID: 4 Amount: 9100 Account ID: 51de351e-5afd-421b-977e-e2d1dc442a09 Bank ID: SM15N87076899864ibCDd6K9EVS
+ Transaction ID: 3 Amount: 723 Account ID: e96f9fc4-b53b-4283-afbd-ed66ba5991e4 Bank ID: HR6399829895835789162
+ Transaction ID: 5 Amount: 8610 Account ID: 4a71a764-771a-4c1e-814a-fc2f405551f1 Bank ID: SK0692123302139814172731
+ Transaction ID: 1 Amount: 6015 Account ID: 43009334-242f-4c4a-834f-75884c9491f2 Bank ID: PS36VFMQ2Dl3Z0r8kDe0t2TQK5T4h
+ Transaction ID: 2 Amount: 2899 Account ID: 66e7f2bd-6385-488e-be72-466c0c25a19d Bank ID: SI15833421489244397
+ Transaction ID: 1 Amount: 8142 Account ID: bbca4060-0a57-4b3f-887c-8991eb62e4c2 Bank ID: XK044292169606881430
+ Transaction ID: 0 Amount: 6230 Account ID: 4248b558-3e38-43cc-ab78-fe4eb02b6b2f Bank ID: MC2821001664836D35e24z0KB84
+ Transaction ID: 4 Amount: 1818 Account ID: 9f5619d8-7426-4a85-b80e-4844b93fefbf Bank ID: BR3098325505317931318637471YE
+ Transaction ID: 5 Amount: 1275 Account ID: bc756457-2ab4-4501-8654-9c73efcf9c40 Bank ID: HR4182119566779705146
+ Transaction ID: 0 Amount: 6364 Account ID: 012b8c40-96cc-412f-a748-416a05327505 Bank ID: BE46873492460802
+ Transaction ID: 0 Amount: 2591 Account ID: 4a264092-fd8e-4089-bc56-ce1381a37f6a Bank ID: QA68GGVHr49FYj4155B9c7vT3027W
+ Transaction ID: 7 Amount: 3474 Account ID: bfb4c9c4-c4fb-4248-9731-14906357d9bf Bank ID: GE58YG1279684911684517
+ Transaction ID: 5 Amount: 9808 Account ID: 6447f38d-9f4a-4b7a-a2cc-62d445f57612 Bank ID: BG05IJBO478166IzWBEwpl
+ Transaction ID: 6 Amount: 2138 Account ID: cdb513ae-aa69-45e0-93f3-5cb7f7a0e734 Bank ID: TR726553984Ht41B5Vn381u67q
